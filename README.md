@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moleseng
 - 👀 I’m interested in LEARNING STUFF.
-- 🌱 I’m currently learning CSS, HTML, JavaScript, Front End Development.
+- 🌱 HTML5, CSS3, JavaScript, React and JAVA
 - 💞️ I’m looking to collaborate on anything that brings value!
 - 📫 [twitter](https://twitter.com/mueslimomo)
 
