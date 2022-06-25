@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Moleseng
-- 👀 I’m interested in LEARNING STUFF.
+- 👋 Hi, I’m Moleseng, a self-taught software developer.
+- 👀 I’m interested in learning new things, finding new anime series to become obsessed and food
 - 🌱 HTML5, CSS3, JavaScript, React and JAVA
-- 💞️ I’m looking to collaborate on anything that brings value!
+- 💞️ I’m looking to collaborate on anything that brings value to people and that improves my skils as a developer
 - 📫 [twitter](https://twitter.com/mueslimomo)
 
 <!---
