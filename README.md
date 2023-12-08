@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/moleseng"><img src="https://api.daily.dev/devcards/16526e52e1444e5a80c8812cf5392f0b.png?r=4uq" width="400" alt="Moleseng's Dev Card"/></a>
 - 👋 Hi, I’m Moleseng, a software developer.
 - 👀 I’m interested in learning new things and watching anime!
 - 🌱 HTML5, CSS3, JavaScript, React and Java
